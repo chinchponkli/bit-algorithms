@@ -1,1 +1,1 @@
-# bit-algorithms
+# Bit Algorithms
